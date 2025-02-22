@@ -32,7 +32,7 @@ Flattened images and applied MinMax Scaling.
 
 SMOTE was used to balance classes.
 
-## Machine Learning Models:
+### Machine Learning Models:
 
 Support Vector Machine (SVM) with RBF Kernel
 
@@ -44,7 +44,7 @@ Logistic Regression
 
 Decision Tree Classifier
 
-## Hyperparameter Tuning:
+### Hyperparameter Tuning:
 
 Applied RandomizedSearchCV for optimizing model performance.
 
